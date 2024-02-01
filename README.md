@@ -5,9 +5,7 @@ Computer Science Undergrad 📚 | Web Dev💻 | Content Creator✨
 
 🌱 I’m currently learning full stack development.
 
-👯 I’m looking to collaborate on open-source projects, particularly those aimed at educational tools and community-driven initiatives.
-
-🤔 I’m looking for help with mastering state-of-the-art web development techniques and best practices in software architecture.
+🤔 I’m looking to master the state-of-art of web development techniques and best practices in software architecture.
 
 📫 How to reach me: Drop me an email at muhaddis1122@outlook.com
 
